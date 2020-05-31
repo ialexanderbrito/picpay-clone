@@ -2,6 +2,8 @@ import React from 'react';
 
 import { MaterialCommunityIcons, AntDesign } from '@expo/vector-icons';
 
+import Suggestions from '../../components/Suggestions';
+
 import {
   Wrapper,
   Container,
@@ -29,6 +31,7 @@ export default function Home() {
 
           <AntDesign name="gift" size={25} color="#10c86e" />
         </Header>
+        <Suggestions />
       </Container>
     </Wrapper>
   );
