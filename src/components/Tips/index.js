@@ -12,7 +12,7 @@ const items = [
   {
     key: String(Math.random()),
     img: img8,
-    title: 'Pague suas contas sem sair de casa.',
+    title: 'Universitário! Cadastre-se e ganhe mais cashback.',
     bgColor: '#172c4a',
   },
   {
@@ -24,7 +24,7 @@ const items = [
   {
     key: String(Math.random()),
     img: img10,
-    title: 'Pague suas contas sem sair de casa.',
+    title: 'Divida a conta com seus amigos de um jeito mais rápido.',
     bgColor: '#4139c8',
   },
   {
@@ -36,7 +36,7 @@ const items = [
   {
     key: String(Math.random()),
     img: img12,
-    title: 'Pague suas contas sem sair de casa.',
+    title: 'Conecte com outros bancos e veja seu saldo de maneira rápida.',
     bgColor: '#ba2f76',
   },
 ];
