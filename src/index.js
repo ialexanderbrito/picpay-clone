@@ -7,7 +7,7 @@ import Navigation from './Navigation';
 export default function App() {
   return (
     <>
-      <StatusBar barStyle="light-content" backgroundColor="#000" />
+      <StatusBar barStyle="light-content" />
       <NavigationContainer>
         <Navigation />
       </NavigationContainer>
