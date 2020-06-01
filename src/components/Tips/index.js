@@ -12,31 +12,31 @@ const items = [
   {
     key: String(Math.random()),
     img: img8,
-    title: 'Universitário! Cadastre-se e ganhe mais cashback.',
+    title: 'Universitário! Cadastre-se e ganhe mais cashback',
     bgColor: '#172c4a',
   },
   {
     key: String(Math.random()),
     img: img9,
-    title: 'Pague suas contas sem sair de casa.',
+    title: 'Pague suas contas sem sair de casa',
     bgColor: '#6a0159',
   },
   {
     key: String(Math.random()),
     img: img10,
-    title: 'Divida a conta com seus amigos de um jeito mais rápido.',
+    title: 'Pague um amigo à distância',
     bgColor: '#4139c8',
   },
   {
     key: String(Math.random()),
     img: img11,
-    title: 'Pague suas contas sem sair de casa.',
+    title: 'Saiba como pagar um boleto com PicPay',
     bgColor: '#00ab4b',
   },
   {
     key: String(Math.random()),
     img: img12,
-    title: 'Conecte com outros bancos e veja seu saldo de maneira rápida.',
+    title: 'Adicione dinheiro na sua carteira',
     bgColor: '#ba2f76',
   },
 ];
