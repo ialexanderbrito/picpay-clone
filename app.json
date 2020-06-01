@@ -1,28 +1,29 @@
 {
   "expo": {
-    "name": "picpay",
+    "name": "PicPay",
     "slug": "picpay",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "sdkVersion": "37.0.0",
+    "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
+      "bundleIdentifier": "com.ialexanderbrito.picpay",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ialexanderbrito.picpay",
+      "versionCode": 1
     }
   }
 }
