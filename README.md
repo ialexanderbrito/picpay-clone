@@ -42,6 +42,35 @@ Extras:
 
 <b>PicPay</b> é um aplicativo de pagamentos que funciona como uma carteira digital. 
 
+### ⚙ Como rodar este projeto
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+
+<b>[Git](https://git-scm.com)</b>
+
+<b>[Expo](https://expo.io)</b>
+
+E também será preciso um editor, eu indico o <b>[VSCode](https://code.visualstudio.com/)</b>
+
+### 🧭 Rodando o Projeto
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/ialexanderbrito/picpay-clone
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd picpay-clone
+
+# Instale as dependências
+$ npm install ou yarn add
+
+# Execute a aplicação
+$ expo start
+
+```
+
 ### :recycle: Como contribuir
 
 - Fork esse repositório;
@@ -57,7 +86,7 @@ Realizado com base na série de vídeos do [Mateus Silva](https://github.com/maa
 
 ### :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ### 📱 Social
 
